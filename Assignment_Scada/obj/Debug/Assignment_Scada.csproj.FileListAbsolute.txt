@@ -1,0 +1,29 @@
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.exe.config
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.exe
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.pdb
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.csprojResolveAssemblyReference.cache
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.Form1.resources
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.Properties.Resources.resources
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.csproj.GenerateResource.Cache
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.csproj.CoreCompileInputs.cache
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.exe
+E:\Assignments\Navjot\apr_13\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.pdb
+N:\scada\scada\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.exe.config
+N:\scada\scada\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.exe
+N:\scada\scada\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.pdb
+N:\scada\scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.csprojResolveAssemblyReference.cache
+N:\scada\scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.Form1.resources
+N:\scada\scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.Properties.Resources.resources
+N:\scada\scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.csproj.GenerateResource.Cache
+N:\scada\scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.csproj.CoreCompileInputs.cache
+N:\scada\scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.exe
+N:\scada\scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.pdb
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.exe.config
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.exe
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\bin\Debug\Assignment_Scada.pdb
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.csprojAssemblyReference.cache
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.Form1.resources
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.Properties.Resources.resources
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.csproj.GenerateResource.cache
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.exe
+C:\Users\12268\Documents\for git\Assignment_Scada\Assignment_Scada\Assignment_Scada\obj\Debug\Assignment_Scada.pdb
